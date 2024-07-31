@@ -55,4 +55,27 @@ Starlight Cinemas es un sistema de reservacion de boletos desde la comododidad d
 Proporcione capturas de pantalla de las principales funcionalidades y descripciones detalladas para guiar a los usuarios en el uso de la aplicación.
 1. **Pagina principal**
    ![Mi Imagen](imagenes/1.jpg)
+   ![Mi Imagen](imagenes/2.jpg)
+   ![Mi Imagen](imagenes/3.jpg)
+   ![Mi Imagen](imagenes/4.jpg)
+   ![Mi Imagen](imagenes/5.jpg)
+   
+3. **Pagina sobre nosotros**
+   ![Mi Imagen](imagenes/6.jpg)
 
+4. **Login**
+   ![Mi Imagen](imagenes/7.jpg)
+
+5. **Pagina compra**
+    ![Mi Imagen](imagenes/8.jpg)
+    ![Mi Imagen](imagenes/9.jpg)
+    ![Mi Imagen](imagenes/10.jpg)
+    ![Mi Imagen](imagenes/11.jpg)
+
+6. **Pagina facturaciòn**
+    ![Mi Imagen](imagenes/12.jpg)
+
+7. **Pagina vista administrador**
+    ![Mi Imagen](imagenes/1.1.jpg)
+    ![Mi Imagen](imagenes/1.2.jpg)
+    ![Mi Imagen](imagenes/1.3.jpg)
