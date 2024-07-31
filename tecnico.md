@@ -114,3 +114,7 @@ CREATE TABLE Reservas (
 2. Crear la Api.
 3. Crear la conexion de la api con MYSQL.
 4. Crear componentes y servicios necesarios
+   
+## Capturas de Pantalla y Descripcion
+
+
