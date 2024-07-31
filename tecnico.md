@@ -101,7 +101,7 @@ CREATE TABLE Reservas (
 3. Realizar la conexion con la base de datos creada en MYSQL.
 
 ### Ejemplo de Código para el Servidor
-![Mi Imagen](img/code.png)
+ ![Mi Imagen](imagenes/1.1.3.jpg)
 
 ## Implementación del Frontend
 ### Configuración del Entorno
@@ -116,5 +116,6 @@ CREATE TABLE Reservas (
 4. Crear componentes y servicios necesarios
    
 ## Capturas de Pantalla y Descripcion
-
-
+ ![Mi Imagen](imagenes/1.1.3.jpg)
+ ![Mi Imagen](imagenes/1.1.1.jpg)
+  ![Mi Imagen](imagenes/1.1.2.jpg)
