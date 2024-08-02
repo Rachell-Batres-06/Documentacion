@@ -4,7 +4,7 @@
 Starlight Cinema consiste en una aplicación web dinámica ofreciendo un amplio catálogo de películas del momento y funciones para satisfacer al cliente.
 
 ## Arquitectura del Sistema
- ![Mi Imagen](imagenes/1.1.3.jpg)
+ ![Mi Imagen](arqui.png)
  
 ## Requisitos Técnicos
 1. **Backend**: Python, Flask
