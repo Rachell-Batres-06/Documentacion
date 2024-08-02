@@ -4,11 +4,8 @@
 Starlight Cinema consiste en una aplicación web dinámica ofreciendo un amplio catálogo de películas del momento y funciones para satisfacer al cliente.
 
 ## Arquitectura del Sistema
-El sistema Starlight Cinema consta de tres componentes principales:
-1. **Backend**: Desarrollado en Python.
-2. **Frontend**: Desarrollado utilizando JavaScript, HTML, CSS.
-3. **Gestor de Datos**: Desarrollado utilizando MYSQL, JSON.
-
+ ![Mi Imagen](imagenes/1.1.3.jpg)
+ 
 ## Requisitos Técnicos
 1. **Backend**: Python, Flask
 2. **Frontend**: JavaScript, HTML, CSS
